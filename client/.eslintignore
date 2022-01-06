@@ -1,0 +1,12 @@
+**/node_modules/*
+**/out/*
+**/.next/*
+
+*.config.js
+*.svg
+*.ico
+*.json
+.gitignore
+*.md
+*.log
+*.lock
